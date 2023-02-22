@@ -1,7 +1,10 @@
-PropertyAnimation - Final Code
+PropertyAnimation👌🤷‍♂️
 ============================================================================
 
 Solution code for PropertyAnimation codelab
+
+A pragmatic run of our app in an android emulator looks like this:
+![](https://raw.githubusercontent.com/kendrickchibueze/-Modern-Node-on-AWS/40e28b78f9fedac09be90c3c8032a135b8efcfa5/Branching%20Strategies/Screenshot%20(504).png)
 
 Introduction
 ------------
@@ -16,8 +19,8 @@ Open the "begin" project to start from the beginning.
 Getting Started
 ---------------
 
-1. Download the "begin" project and follow the steps in the codelab.
-2. Check your answers against this "end" project if necessary.
+1. Download or clone the project with git and run in your android Emulator
+
 
 License
 -------

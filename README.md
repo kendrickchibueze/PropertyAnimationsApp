@@ -3,9 +3,6 @@ PropertyAnimation👌🤷‍♂️
 
 Solution code for PropertyAnimation codelab
 
-A pragmatic run of our app in an android emulator looks like this:
-![](https://raw.githubusercontent.com/kendrickchibueze/-Modern-Node-on-AWS/40e28b78f9fedac09be90c3c8032a135b8efcfa5/Branching%20Strategies/Screenshot%20(504).png)
-
 Introduction
 ------------
 
@@ -20,6 +17,12 @@ Getting Started
 ---------------
 
 1. Download or clone the project with git and run in your android Emulator
+
+
+A pragmatic run of our app in an android emulator looks like this:
+
+
+![](https://raw.githubusercontent.com/kendrickchibueze/-Modern-Node-on-AWS/40e28b78f9fedac09be90c3c8032a135b8efcfa5/Branching%20Strategies/Screenshot%20(504).png)
 
 
 License
